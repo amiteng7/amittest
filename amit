@@ -1,6 +1,10 @@
 Hi
 This also second test file for git
+<<<<<<< HEAD
 sdcdssdadas
 
 cdjkcsdcs
 
+=======
+sdsfdskjjlmdcdssdadas
+>>>>>>> 9881b33bcbc9c84dffaec3662e56c8177385cbd4
