@@ -1,4 +1,11 @@
 Hi
 This also second test file for git
+<<<<<<< HEAD
 sdsfdskjjlmdcdssdadas
 cjcjsn
+=======
+sdcdssdadas
+
+cdjkcsdcs
+
+>>>>>>> 15fcb68d7d74c74f68b8d3b058300c8aaa07b1fb
